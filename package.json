@@ -1,0 +1,16 @@
+{
+  "name": "letube",
+  "version": "1.0.0",
+  "description": "Post your favourite Vedio memory",
+  "keywords": [
+    "Javascript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Ismail Tabish",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
